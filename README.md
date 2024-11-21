@@ -4,6 +4,6 @@
 ## 메인페이지
 ![Alt Text](gifs/메인.gif)
 ## 공고추천
-![Alt Text](gifs/매칭)
+![Alt Text](gifs/매칭.gif)
 ## 자기소개서 작성
-![Alt Text](gifs/자기소개서)
+![Alt Text](gifs/자기소개서.gif)
